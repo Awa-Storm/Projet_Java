@@ -126,5 +126,5 @@ La classe `TestSupermat` inclut :
 
 ## Auteur
 
-Adaptation Java du projet C "SUPERMATRICES" - Semestre 1 DICI1
+Awa_Niasse
 # Projet_Java
